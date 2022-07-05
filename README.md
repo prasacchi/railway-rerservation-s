@@ -1,4 +1,5 @@
-# railway-rerservation-s
+Railway _Reservation_System
+implementing array and string Data Structure.
 It has following feature:
 1}VIEW INFORMATION: Here we can check out registered train with their respective time and train number
 2}BOOK TICKET: Providing the passenger details,to book a ticket according to its availability
@@ -9,3 +10,4 @@ b}Add train: only admin can add a new train (default password is set"1234567")
 c}Delete train: admin can also delete a already registered train
 d} Back
 5} EXIT
+
